@@ -3,12 +3,11 @@ name: Publish to PyPI
 on:
   push:
     tags:
-      - 'v*'  # This will trigger the workflow on version tags
+      - 'v*'  # Trigger on version tags
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    environment: pypi  # Specify the environment you created
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
