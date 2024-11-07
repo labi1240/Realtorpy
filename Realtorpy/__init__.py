@@ -1,11 +1,11 @@
-from pyRealtor.geo import GeoLocationService
-from pyRealtor.realtor import Realtor
-from pyRealtor.report import ReportingService
-from pyRealtor.facade import HousesFacade
-from pyRealtor.proxy import Proxy
-from pyRealtor.realtorCa import RealtorCa
-from pyRealtor.realtorCom import RealtorCom
-from pyRealtor.realtorFactory import RealtorFactory
+from Realtorpy.geo import GeoLocationService
+from Realtorpy.realtor import Realtor
+from Realtorpy.report import ReportingService
+from Realtorpy.facade import HousesFacade
+from Realtorpy.proxy import Proxy
+from Realtorpy.realtorCa import RealtorCa
+from Realtorpy.realtorCom import RealtorCom
+from Realtorpy.realtorFactory import RealtorFactory
 
 __version__ = "0.1.8"
 

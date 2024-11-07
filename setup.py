@@ -1,4 +1,4 @@
-# Copyright (C) 2024 Rachit Trivedi <labi1240@gmail.com>
+# Copyright (C) 2024 Lovepreet Gill <labi1240@gmail.com>
 # License: MIT, labi1240@gmail.com
 
 from setuptools import setup
