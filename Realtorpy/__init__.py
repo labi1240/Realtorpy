@@ -7,7 +7,7 @@ from Realtorpy.realtorCa import RealtorCa
 from Realtorpy.realtorCom import RealtorCom
 from Realtorpy.realtorFactory import RealtorFactory
 
-__version__ = "0.1.8"
+__version__ = "1.0.0"
 
 __all__ = [
     "GeoLocationService",
