@@ -15,7 +15,7 @@ setup(
     author = 'Lovepreet Gill',
     author_email = 'labi1240@gmail.com',
     license = 'MIT',
-    url = 'https://github.com/rachitt96/pyRealtor',
+    url = 'https://github.com/labi1240/Realtorpy',
     packages = ['Realtorpy'],
     python_requires = '>=3.6',
     install_requires = [
